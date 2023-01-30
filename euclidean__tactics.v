@@ -42,6 +42,28 @@ Require Export euclidean__axioms.
 Require Export logic.
 Require Export euclidean__axioms.
 Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
+Require Export euclidean__axioms.
+Require Export logic.
 Require Export euclidean__defs.
 
 Axiom NNPP: forall P, ~~P -> P.
